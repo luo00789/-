@@ -93,10 +93,13 @@ website | http://lcx161013070.me/
 ### 2.4 网站备份
 * 利用winSCCP对php文件进行备份
 * * ![avatar](img/backup4.png) 
+
 * 利用插件WPDB对数据库sql文件进行备份
 * * ![avatar](img/backup3.png) 
+
 * 利用wp后台文件导出进行备份
 * * ![avatar](img/backup.png) 
+
 * 最后是备份结果(图中文字解释打错，应为WPDB插件)
 * * ![avatar](img/backup2.png) 
 
@@ -104,7 +107,7 @@ website | http://lcx161013070.me/
 ### 3.1 站长工具
 * 必应站长认证
 * * ![avatar](img/必应站长认证.png) 
-* * ![avatar](img/页面流量.png) 
+* * ![avatar](img/必应页面流量.png) 
 
 * 谷歌站长认证
 * * 
