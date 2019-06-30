@@ -37,12 +37,19 @@ website | http://lcx161013070.me/
 
 * [SiteOrigin1](http://lcx161013070.me/dc-comic/)
 	* * 使用了siteorigin editor、siteorigin image、post carousel，制作出简易页面的效果，并且使用posts carousel让文章以较简洁的形式展现出来
+	* * ![avatar](img/s1.png)
+
 * [SiteOrigin2](http://lcx161013070.me/only-me/)
 	* * 使用了siteorigin headline、siteorigin editor、siteorigin contact form，制作出联系表单的效果，可以一目了然进行填写表单联系
+	* * ![avatar](img/s2.png)
+
 * [SiteOrigin3](http://lcx161013070.me/category/uncategorized/)
 	* * 使用了FooGallery插件，插入标题中，制作画廊效果
+	* * ![avatar](img/s3.png)
+
 * [SiteOrigin4](http://lcx161013070.me/my-blog/)
 	* * 使用了siteorigin editor、siteorigin image、post grid，由于此页面文章归类较多，因此使用了posts grid，可以一次性显示更多的文章却又不是简洁
+	* * ![avatar](img/s4.png)
 
 
 ### 1.7 平面设计
