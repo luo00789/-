@@ -32,22 +32,22 @@ website | http://lcx161013070.me/
 * ![avatar](img/个人网站地图.png)
 
 ### 1.6 平面设计插件运用
-* [Animate it!](http://lcx161013070.me/) 
+* [Animate it!(含超链接)](http://lcx161013070.me/) 
 * * 在侧边栏使用了三个动画效果
 
-* [SiteOrigin1](http://lcx161013070.me/dc-comic/)
+* [SiteOrigin1(含超链接)](http://lcx161013070.me/dc-comic/)
 	* * 使用了siteorigin editor、siteorigin image、post carousel，制作出简易页面的效果，并且使用posts carousel让文章以较简洁的形式展现出来
 	* * ![avatar](img/s1.png)
 
-* [SiteOrigin2](http://lcx161013070.me/only-me/)
+* [SiteOrigin2(含超链接)](http://lcx161013070.me/only-me/)
 	* * 使用了siteorigin headline、siteorigin editor、siteorigin contact form，制作出联系表单的效果，可以一目了然进行填写表单联系
 	* * ![avatar](img/s2.png)
 
-* [SiteOrigin3](http://lcx161013070.me/category/uncategorized/)
+* [SiteOrigin3(含超链接)](http://lcx161013070.me/category/uncategorized/)
 	* * 使用了FooGallery插件，插入标题中，制作画廊效果
 	* * ![avatar](img/s3.png)
 
-* [SiteOrigin4](http://lcx161013070.me/my-blog/)
+* [SiteOrigin4(含超链接)](http://lcx161013070.me/my-blog/)
 	* * 使用了siteorigin editor、siteorigin image、post grid，由于此页面文章归类较多，因此使用了posts grid，可以一次性显示更多的文章却又不是简洁
 	* * ![avatar](img/s4.png)
 
@@ -60,13 +60,13 @@ website | http://lcx161013070.me/
 * 图片的使用
 * * 本网站图片的主要来源："DC漫画"公众号("DCmanhua")、老师教学文档截图、个人截图
 	* * 页面"my seo"&"踩坑"所用到的foogallery：
-		* * [图片来源1](https://searchengineland.com/figz/wp-content/seloads/2018/02/bing-teal-logo-wordmark3-1920.png) <br> [图片来源2](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E8%B8%A9%E5%9D%91&hs=2&pn=0&spn=0&di=172260&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=2211723556%2C4285150777&os=1229686684%2C3318491350&simid=0%2C0&adpicid=0&lpn=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=%E8%B8%A9%E5%9D%91&objurl=http%3A%2F%2Fe0.ifengimg.com%2F07%2F2018%2F1203%2F0B81F0A6D281873B4C929FC0CDBB3E7322B9D13E_size36_w535_h300.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Foj4j1tw_z%26e3Btujg2_z%26e3Bv54AzdH3Fl88cd800AzdH3Foj4j1tw_z%26e3Bfip4s&gsm=0&islist=&querylist=)
-	* * 《DC漫画史——小丑》：[图片来源](https://mp.weixin.qq.com/s/eLq9Wq6qrNTE0nb2mFnRZQ)
-	* * 《DC电影史——一位小丑永远留在我们心里……》：[图片来源](https://mp.weixin.qq.com/s/tQ4ArNg3R5uJaGYdB3hK-w)
-	* * 《DC影视——谁才是小丑之王》：[图片来源](https://mp.weixin.qq.com/s/yYlmZMo7vMBwFExpKyJGUw)
-	* * 《DO搭建WP》：[图片来源](http://lcx161013070.me/wp-content/uploads/2019/06/digitalocean%E6%90%AD%E5%BB%BAwp.docx)
-	* * 《namecheap注册域名并用DO绑定》：[图片来源](http://lcx161013070.me/wp-content/uploads/2019/06/namecheap%E6%B3%A8%E5%86%8Cdigital%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D.docx)
-	* * 三篇站长认证文及踩坑文均为原创文章，[部分图片来源于网络](https://www.laozuo.org/5751.html),其余图片均为网站拥有者个人截图
+		* * [图片来源1(含超链接)](https://searchengineland.com/figz/wp-content/seloads/2018/02/bing-teal-logo-wordmark3-1920.png) <br> [图片来源2(含超链接)](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E8%B8%A9%E5%9D%91&hs=2&pn=0&spn=0&di=172260&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=2211723556%2C4285150777&os=1229686684%2C3318491350&simid=0%2C0&adpicid=0&lpn=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=%E8%B8%A9%E5%9D%91&objurl=http%3A%2F%2Fe0.ifengimg.com%2F07%2F2018%2F1203%2F0B81F0A6D281873B4C929FC0CDBB3E7322B9D13E_size36_w535_h300.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Foj4j1tw_z%26e3Btujg2_z%26e3Bv54AzdH3Fl88cd800AzdH3Foj4j1tw_z%26e3Bfip4s&gsm=0&islist=&querylist=)
+	* * 《DC漫画史——小丑》：[图片来源(含超链接)](https://mp.weixin.qq.com/s/eLq9Wq6qrNTE0nb2mFnRZQ)
+	* * 《DC电影史——一位小丑永远留在我们心里……》：[图片来源(含超链接)](https://mp.weixin.qq.com/s/tQ4ArNg3R5uJaGYdB3hK-w)
+	* * 《DC影视——谁才是小丑之王》：[图片来源(含超链接)](https://mp.weixin.qq.com/s/yYlmZMo7vMBwFExpKyJGUw)
+	* * 《DO搭建WP》：[图片来源(含超链接)](http://lcx161013070.me/wp-content/uploads/2019/06/digitalocean%E6%90%AD%E5%BB%BAwp.docx)
+	* * 《namecheap注册域名并用DO绑定》：[图片来源(含超链接)](http://lcx161013070.me/wp-content/uploads/2019/06/namecheap%E6%B3%A8%E5%86%8Cdigital%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D.docx)
+	* * 三篇站长认证文及踩坑文均为原创文章，[部分图片来源于网络(含超链接)](https://www.laozuo.org/5751.html),其余图片均为网站拥有者个人截图
 
 * 图库风格及配色
 * * 风格：采用黑暗风格——通过对多年美漫的了解以及和用户调研，基本可以确定爱好者及普通人对于美漫的初步认识都是偏黑暗风格，因此采用一些网上的黑暗风美漫插画图会比较符合主题
@@ -75,9 +75,9 @@ website | http://lcx161013070.me/
 * * ![avatar](img/color.png)
 
 ### 1.8 3篇云端架站踩坑图文
-* [那些年踩过的坑——DO账号的锁定](http://lcx161013070.me/2019/06/29/%e9%82%a3%e4%ba%9b%e5%b9%b4%e8%b8%a9%e8%bf%87%e7%9a%84%e5%9d%91-do%e8%b4%a6%e5%8f%b7%e7%9a%84%e9%94%81%e5%ae%9a/)
-* [那些年踩过的坑2——关于github绑定namecheap域名](http://lcx161013070.me/2019/06/30/%e9%82%a3%e4%ba%9b%e5%b9%b4%e8%b8%a9%e8%bf%87%e7%9a%84%e5%9d%912-%e5%85%b3%e4%ba%8egithub%e7%bb%91%e5%ae%9anamecheap%e5%9f%9f%e5%90%8d/)
-* [那些年踩过的坑3——除了seo认证&sitemap，还能怎样令网站搜索排名靠前?](http://lcx161013070.me/2019/06/30/%e9%82%a3%e4%ba%9b%e5%b9%b4%e8%b8%a9%e8%bf%87%e7%9a%84%e5%9d%913-%e9%99%a4%e4%ba%86seo%e8%ae%a4%e8%af%81sitemap%ef%bc%8c%e8%bf%98%e8%83%bd%e6%80%8e%e6%a0%b7%e4%bb%a4%e7%bd%91/)
+* [那些年踩过的坑——DO账号的锁定(含超链接)](http://lcx161013070.me/2019/06/29/%e9%82%a3%e4%ba%9b%e5%b9%b4%e8%b8%a9%e8%bf%87%e7%9a%84%e5%9d%91-do%e8%b4%a6%e5%8f%b7%e7%9a%84%e9%94%81%e5%ae%9a/)
+* [那些年踩过的坑2——关于github绑定namecheap域名(含超链接)](http://lcx161013070.me/2019/06/30/%e9%82%a3%e4%ba%9b%e5%b9%b4%e8%b8%a9%e8%bf%87%e7%9a%84%e5%9d%912-%e5%85%b3%e4%ba%8egithub%e7%bb%91%e5%ae%9anamecheap%e5%9f%9f%e5%90%8d/)
+* [那些年踩过的坑3——除了seo认证&sitemap，还能怎样令网站搜索排名靠前?(含超链接)](http://lcx161013070.me/2019/06/30/%e9%82%a3%e4%ba%9b%e5%b9%b4%e8%b8%a9%e8%bf%87%e7%9a%84%e5%9d%913-%e9%99%a4%e4%ba%86seo%e8%ae%a4%e8%af%81sitemap%ef%bc%8c%e8%bf%98%e8%83%bd%e6%80%8e%e6%a0%b7%e4%bb%a4%e7%bd%91/)
 
 
 ## 2.管理
