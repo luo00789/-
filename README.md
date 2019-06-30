@@ -32,7 +32,7 @@ website | http://lcx161013070.me/
 
 ### 1.6 平面设计插件运用
 * [Animate it!](http://lcx161013070.me/) 
-* *在侧边栏使用了三个动画效果
+* * 在侧边栏使用了三个动画效果
 
 * [SiteOrigin1](http://lcx161013070.me/dc-comic/)
 	* * 使用了siteorigin editor、siteorigin image、post carousel，制作出简易页面的效果，并且使用posts carousel让文章以较简洁的形式展现出来
